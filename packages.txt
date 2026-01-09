@@ -1,0 +1,8 @@
+gradio==4.44.1
+numpy
+pydub
+soundfile
+ffmpeg-python
+faster-whisper
+torch
+TTS==0.22.0
