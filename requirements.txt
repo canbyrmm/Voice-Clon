@@ -1,0 +1,9 @@
+streamlit
+TTS
+faster-whisper
+pydub
+soundfile
+numpy
+torch
+torchaudio
+ffmpeg-python
